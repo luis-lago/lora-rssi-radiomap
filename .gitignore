@@ -1,0 +1,19 @@
+# macOS & OS metadata
+.DS_Store
+._*
+
+# Python bytecode & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Local scratch notes containing plaintext lab credentials
+Running_order.txt
+turtlebot4_lora_radiomap/vm/Burst.txt
+
+# Large Virtual Machine disk images and Parallels bundles (>100 MB GitHub limit)
+# Keep VM/README.md tracked while ignoring raw VM disk binaries
+VM/*
+!VM/README.md

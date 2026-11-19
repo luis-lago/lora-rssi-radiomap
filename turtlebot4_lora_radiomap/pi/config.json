@@ -1,0 +1,7 @@
+{
+  "serial_port": "/dev/ttyUSB0",
+  "baud_rate": 9600,
+  "http_host": "0.0.0.0",
+  "http_port": 8080,
+  "output_csv": "receiver_packets.csv"
+}

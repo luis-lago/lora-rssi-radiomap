@@ -1,0 +1,14 @@
+{
+  "transmitter_serial_port": "/dev/ttyUSB0",
+  "transmitter_baud_rate": 9600,
+  "receiver_pi_url": "http://192.168.1.50:8080",
+  "pose_topic": "/amcl_pose",
+  "odom_topic": "/odom",
+  "packet_count": 15,
+  "packet_rate_hz": 5,
+  "post_burst_wait_seconds": 0.3,
+  "minimum_received_packets": 10,
+  "maximum_linear_velocity": 0.02,
+  "maximum_angular_velocity": 0.03,
+  "output_directory": "./data"
+}

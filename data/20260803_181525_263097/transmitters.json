@@ -1,0 +1,12 @@
+{
+  "coordinate_frame": "map",
+  "units": "meters",
+  "transmitters": [
+    {
+      "transmitter_id": "tx01",
+      "x": 3.46,
+      "y": 2.14,
+      "z": 1.02
+    }
+  ]
+}
