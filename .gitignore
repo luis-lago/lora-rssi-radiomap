@@ -17,3 +17,6 @@ turtlebot4_lora_radiomap/vm/Burst.txt
 # Keep VM/README.md tracked while ignoring raw VM disk binaries
 VM/*
 !VM/README.md
+
+# Unrelated data only used for organizing deliverables
+BLE
